@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "bin/..",
+			"file_exclude_patterns": ["*.sublime-project"]
+		}
+	], 
+
+	"build_systems":
+	[
+		{
+			"name": "Build",
+			"working_dir": "${project_path}",
+			"cmd": "g++ -c src/*.cpp src/glad.c   -std=c++14 -g -Wall -m64 -I include -I B:/game__dev/gl/glfw3/include -I B:/game__dev/gl/glad/include && g++ *.o -o build/main -L B:/game__dev/gl/glfw3/lib -L B:/game__dev/gl/first/lib -lmingw32 -lglfw3 -lgdi32 -lopengl32 -lassimp && start build/main",
+			"selector": "source.c++",
+			"shell": true
+		}
+	]
+}

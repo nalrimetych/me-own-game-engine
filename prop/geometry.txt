@@ -1,0 +1,36 @@
+#version 330 core
+
+layout (triangles) in;
+layout (triangle_strip, max_vertices = 3) out;
+
+out vec3 fnormagl;
+out vec3 fpos;
+out vec2 texCoords;
+
+in DATA {
+	vec3 fpos;
+	vec3 fnormagl;
+	vec2 texCoords;
+	mat4 projection;
+
+} data_in[];
+
+void main() {
+	gl_Position = data_in[0].projection * gl_in[0].gl_Position;
+	fnormagl = data_in[0].fnormagl;
+	fpos = data_in[0].fpos;
+	texCoords = data_in[0].texCoords;
+	EmitVertex();
+
+	gl_Position = data_in[1].projection * gl_in[1].gl_Position;
+	fnormagl = data_in[1].fnormagl;
+	fpos = data_in[1].fpos;
+	texCoords = data_in[1].texCoords;
+	EmitVertex();
+
+	gl_Position = data_in[2].projection * gl_in[2].gl_Position;
+	fnormagl = data_in[2].fnormagl;
+	fpos = data_in[2].fpos;
+	texCoords = data_in[2].texCoords;
+	EmitVertex();
+}

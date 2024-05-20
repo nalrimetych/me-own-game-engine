@@ -1,0 +1,26 @@
+#version 330 core
+layout (location = 0) in vec3 position;
+layout (location = 1) in vec3 vnormagl;
+layout (location = 2) in vec2 inTexCoords;
+
+uniform mat4 model;
+uniform mat4 view;
+uniform mat4 projection;
+
+
+out DATA {
+	vec3 fpos;
+	vec3 fnormagl;
+	vec2 texCoords;
+	mat4 projection;
+
+} data_out;
+
+void main()
+{
+	gl_Position = view * model * vec4(position, 1.0f);
+	data_out.fpos = vec3(model * vec4(position, 1.0f));
+	data_out.fnormagl = mat3(transpose(inverse(model))) * vnormagl;
+	data_out.texCoords = inTexCoords;
+	data_out.projection = projection;
+};

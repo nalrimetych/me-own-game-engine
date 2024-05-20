@@ -1,0 +1,1053 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vec",
+				"vectorbek"
+			],
+			[
+				"set",
+				"setMat4"
+			],
+			[
+				"y",
+				"ypos"
+			],
+			[
+				"xpo",
+				"xposIN"
+			],
+			[
+				"mous",
+				"mouseSensa"
+			],
+			[
+				"mouse",
+				"mouseSensa"
+			],
+			[
+				"cam",
+				"cameraSpeed"
+			],
+			[
+				"came",
+				"cameraFront"
+			],
+			[
+				"glUniform",
+				"glUniformMatrix4fv"
+			],
+			[
+				"GL_F",
+				"GL_FALSE"
+			],
+			[
+				"tra",
+				"transformLoc"
+			],
+			[
+				"stbi",
+				"stbi_image_free"
+			],
+			[
+				"te",
+				"texture1"
+			],
+			[
+				"glBind",
+				"glBindVertexArray"
+			],
+			[
+				"GL",
+				"GL_ELEMENT_ARRAY_BUFFER"
+			],
+			[
+				"glGet",
+				"glGetShaderInfoLog"
+			],
+			[
+				"f",
+				"fShaderStream"
+			],
+			[
+				"fra",
+				"fragmentCode"
+			],
+			[
+				"v",
+				"vShaderStream"
+			],
+			[
+				"fram",
+				"fragmentPath"
+			],
+			[
+				"ver",
+				"vertexPath"
+			],
+			[
+				"GL_",
+				"GL_TRIANGLES"
+			],
+			[
+				"verte",
+				"vertexColorLocation"
+			],
+			[
+				"shader",
+				"shaderProgram2"
+			],
+			[
+				"enti",
+				"entities1"
+			],
+			[
+				"ent",
+				"entities"
+			],
+			[
+				"ge",
+				"getCurrentFrame"
+			],
+			[
+				"En",
+				"Entity"
+			],
+			[
+				"rend",
+				"renderer"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"si",
+				"size2"
+			],
+			[
+				"s",
+				"SIZE"
+			],
+			[
+				"m",
+				"myVector"
+			],
+			[
+				"po",
+				"pop_back"
+			],
+			[
+				"pre",
+				"pPrev"
+			],
+			[
+				"pu",
+				"push_front"
+			],
+			[
+				"get",
+				"get_size"
+			],
+			[
+				"get_",
+				"get_head_and_tail"
+			],
+			[
+				"p",
+				"pPrev"
+			],
+			[
+				"re",
+				"removeAt"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"pus",
+				"push_front"
+			],
+			[
+				"Pu",
+				"push_back"
+			],
+			[
+				"pr",
+				"Printer"
+			],
+			[
+				"o",
+				"obj1"
+			],
+			[
+				"ty",
+				"typeDetector"
+			],
+			[
+				"mail",
+				"mailTo"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"c",
+				"char"
+			],
+			[
+				"ost",
+				"ostatok1"
+			],
+			[
+				"os",
+				"ostatok2"
+			],
+			[
+				"b",
+				"b_d"
+			],
+			[
+				"fl",
+				"FlyingCar"
+			],
+			[
+				"bal",
+				"background-color\tproperty"
+			],
+			[
+				"res",
+				"res__cornice"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"pri",
+				"Printer"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"test",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch"
+			],
+			[
+				"i",
+				"infFromSer"
+			],
+			[
+				"foo",
+				"foo"
+			],
+			[
+				"a",
+				"apple"
+			],
+			[
+				"ma",
+				"myClass"
+			],
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"subm",
+				"submit__btn"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"cau",
+				"carouselImages"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ca",
+				"carouselSlider"
+			],
+			[
+				"ne",
+				"nextBtn"
+			],
+			[
+				"car",
+				"carousel__images"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"w",
+				"w__scroll"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"bacgr",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tem",
+				"temp_index"
+			],
+			[
+				"valu",
+				"valueX"
+			],
+			[
+				"value",
+				"valueY"
+			],
+			[
+				"Set",
+				"SetX"
+			],
+			[
+				"S",
+				"SetX"
+			],
+			[
+				"backgron",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"header",
+				"header__link"
+			],
+			[
+				"head",
+				"header__menu"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"heade",
+				"header__link"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"of",
+				"overflow\tproperty"
+			],
+			[
+				"hea",
+				"header__menu"
+			],
+			[
+				"tran",
+				"transform-origin\tproperty"
+			],
+			[
+				"nav",
+				"nav__item"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"use",
+				"userInfo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"table-c",
+				"table-cell\tdisplay"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"pos",
+				"posb"
+			],
+			[
+				"mx",
+				"mxAge"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"size",
+				"size2"
+			],
+			[
+				"x",
+				"Xb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/light.cpp",
+			"settings":
+			{
+				"buffer_size": 2794,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 5407,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "open"
+					},
+					"BQAAAKgEAAAAAAAAqQQAAAAAAAAAAAAAqQQAAAAAAACpBAAAAAAAABQAAABTVUtBIEJMWUFUJyBaQUVCQUFBTKkEAAAAAAAAqgQAAAAAAAAAAAAAqgQAAAAAAACrBAAAAAAAAAAAAACrBAAAAAAAAKwEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAQAAAAAAAC8BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					4,
+					"left_delete",
+					null,
+					"BAAAAKsEAAAAAAAAqwQAAAAAAAABAAAAbqoEAAAAAAAAqgQAAAAAAAABAAAAZakEAAAAAAAAqQQAAAAAAAABAAAAcKgEAAAAAAAAqAQAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAArAQAAAAAAACsBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "me"
+					},
+					"AgAAAKgEAAAAAAAAqQQAAAAAAAAAAAAAqQQAAAAAAACqBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAQAAAAAAACoBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " own"
+					},
+					"BAAAAKoEAAAAAAAAqwQAAAAAAAAAAAAAqwQAAAAAAACsBAAAAAAAAAAAAACsBAAAAAAAAK0EAAAAAAAAAAAAAK0EAAAAAAAArgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgQAAAAAAACqBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " game"
+					},
+					"BQAAAK4EAAAAAAAArwQAAAAAAAAAAAAArwQAAAAAAACwBAAAAAAAAAAAAACwBAAAAAAAALEEAAAAAAAAAAAAALEEAAAAAAAAsgQAAAAAAAAAAAAAsgQAAAAAAACzBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgQAAAAAAACuBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " engine"
+					},
+					"BwAAALMEAAAAAAAAtAQAAAAAAAAAAAAAtAQAAAAAAAC1BAAAAAAAAAAAAAC1BAAAAAAAALYEAAAAAAAAAAAAALYEAAAAAAAAtwQAAAAAAAAAAAAAtwQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALkEAAAAAAAAAAAAALkEAAAAAAAAugQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswQAAAAAAACzBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 531,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJEAAAAAAAAAkQAAAAAAAAAFAAAASFVJTE+QAAAAAAAAAJAAAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					5,
+					"left_delete",
+					null,
+					"BQAAAFgBAAAAAAAAWAEAAAAAAAAFAAAAZGVidWdXAQAAAAAAAFcBAAAAAAAAAQAAAC9WAQAAAAAAAFYBAAAAAAAAAQAAAG5VAQAAAAAAAFUBAAAAAAAAAQAAAGlUAQAAAAAAAFQBAAAAAAAAAQAAAGI",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "build"
+					},
+					"BQAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABZAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "build"
+					},
+					"BgAAANABAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADRAQAAAAAAAAkAAABiaW4vZGVidWfRAQAAAAAAANIBAAAAAAAAAAAAANIBAAAAAAAA0wEAAAAAAAAAAAAA0wEAAAAAAADUAQAAAAAAAAAAAADUAQAAAAAAANUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AEAAAAAAADZAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 142.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/B/game__dev/gl/first"
+	],
+	"file_history":
+	[
+		"/B/game__dev/gl/first/prop/backpack/backpack.mtl",
+		"/B/game__dev/gl/first/prop/cliff/cliff_3_low.mtl",
+		"/B/game__dev/gl/first/prop/cliff/cliff_3_low.obj",
+		"/B/game__dev/gl/first/prop/geometry.txt",
+		"/B/game__dev/gl/first/prop/fragment.txt",
+		"/B/game__dev/gl/first/prop/vertex.txt",
+		"/B/game__dev/gl/first/src/shader.cpp",
+		"/B/game__dev/gl/first/include/SHADER.h",
+		"/B/game__dev/gl/first/include/MODEL.h",
+		"/B/game__dev/gl/first/src/model.cpp",
+		"/B/game__dev/gl/first/src/main.cpp",
+		"/B/game__dev/gl/first/include/MESH.h",
+		"/B/game__dev/gl/first/include/LIGHT.h",
+		"/B/game__dev/gl/first/src/mesh.cpp",
+		"/B/game__dev/gl/second/src/shader.cpp",
+		"/B/game__dev/gl/first/prop/pol/untitled.obj",
+		"/B/game__dev/gl/first/prop/pol/untitled.mtl",
+		"/B/game__dev/gl/first/prop/huina/rock17.mtl",
+		"/B/game__dev/gl/first/prop/peng/PenguinBaseMesh.mtl",
+		"/B/game__dev/gl/first/prop/peng/PenguinBaseMesh.obj",
+		"/B/game__dev/gl/first/prop/huina/rock17.obj",
+		"/B/game__dev/gl/first/prop/rocksman/rock.mtl",
+		"/B/game__dev/gl/first/prop/rock.obj",
+		"/B/game__dev/gl/first/prop/secfrag.txt",
+		"/B/game__dev/gl/first/prop/secvert.txt",
+		"/B/game__dev/gl/first/include/CAMERA.h",
+		"/B/game__dev/gl/first/src/stb_image.cpp",
+		"/B/game__dev/gl/first/include/stb_image.h",
+		"/B/game__dev/gl/first/prop/cubeSunFragment.txt",
+		"/B/game__dev/gl/first/prop/cubeSunVertex.txt",
+		"/B/game__dev/gl/first/project.sublime-project",
+		"/B/game__dev/gl/first/src/camera.cpp",
+		"/C/Users/admin/Desktop/lol.cpp",
+		"/B/game__dev/sdl with book/fgame/src/main.cpp",
+		"/B/game__dev/sdl with book/fgame/include/Player.hpp",
+		"/B/game__dev/sdl with book/fgame/src/renderwindow.cpp",
+		"/B/game__dev/sdl with book/fgame/src/math.cpp",
+		"/B/game__dev/sdl with book/fgame/include/Utils.hpp",
+		"/B/game__dev/sdl with book/fgame/include/Entity.hpp",
+		"/C/Users/admin/Desktop/fgame/src/main.cpp",
+		"/B/prog/g.cpp",
+		"/C/Users/admin/Downloads/Source.cpp",
+		"/B/prog/list.cpp",
+		"/B/prog/kek.cpp",
+		"/B/prog/l.cpp",
+		"/B/prog/test.cpp",
+		"/B/prog/c.cpp",
+		"/C/Users/admin/Downloads/Pachka_sigaret.gp5",
+		"/C/Users/admin/Downloads/Konchitsya_leto.gp5",
+		"/B/prog/snake/Snake.cpp",
+		"/B/prog/Snake.cpp",
+		"/B/prog/p.cpp",
+		"/B/OpenServer/domains/billionnic.com/js/script.js",
+		"/B/OpenServer/domains/billionnic.com/js/slider.js",
+		"/B/prog/o.cpp",
+		"/B/OpenServer/domains/billionnic.com/index.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/catalog.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/test.php",
+		"/B/OpenServer/domains/billionnic.com/mailer.php",
+		"/B/OpenServer/modules/sendmail/sendmail.ini",
+		"/B/OpenServer/domains/billionnic.com/t_s/mailer.php",
+		"/B/OpenServer/domains/billionnic.com/style/style.css",
+		"/C/Users/admin/Downloads/error_log",
+		"/B/web/billionnic/style/style.css",
+		"/B/web/billionnic/index.html",
+		"/B/prog/3068968",
+		"/C/Users/admin/Desktop/error_log.1",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DRa4816.35083/error_log.8",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_12.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_11.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_10.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_9.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_8.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_7.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_6.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_5.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_4.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_3.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_2.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/id_1.php",
+		"/C/Users/admin/Downloads/piraty_karibskogo_morya-pirates_of_the_caribbean_theme_fingerstyle_guitar_cover_by_eddie_van_der_meer.gp5",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_12.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_11.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_10.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_9.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_8.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_7.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_6.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_5.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_4.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_3.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_2.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/id_1.php",
+		"/B/OpenServer/domains/billionnic.com/t_s/tov's/arce.php",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/2007361801/descriptor.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/2007361801.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/israel/descriptor.mod",
+		"/C/Users/admin/Desktop/Новая папка/цой/1/Упрощённый вариант/Спокойная ночь (упрощённый вариант).gp5",
+		"/B/OpenServer/domains/billionnic.com/style/style1.css",
+		"/B/OpenServer/domains/billionnic.com/slider/slider.php",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/2285260370_atlas_vic2_ver.mod",
+		"/C/Users/admin/Desktop/Новая папка/2285260370_atlas_vic2_ver/2285260370_atlas_vic2_ver.mod",
+		"/C/Users/admin/Desktop/password.txt",
+		"/C/Users/admin/Desktop/Новая папка/mycup/mycup.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/mod__first.mod",
+		"/C/Users/admin/Desktop/Новая папка/2007361801_FPS_boost_by_Harvey/2007361801.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/coreclaimgui.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/mycup.mod",
+		"/C/Users/admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/1734988354.mod",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa7916.24515/mycup.mod",
+		"/B/OpenServer/domains/billionnic.com/t_s/slider.php",
+		"/B/web/testing__php/billionnic/index.php",
+		"/B/web/billionnic/style/style1.css",
+		"/B/web/billionnic/t_s/test.html",
+		"/D/Справки на проверку/2018- 2019.xlsx",
+		"/B/OpenServer/domains/test.com/style/style.css",
+		"/B/OpenServer/domains/test.com/index.html",
+		"/B/OpenServer/domains/test.com/articles/article.html",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa13568.4601/gulpfile.js",
+		"/B/OpenServer/domains/hohol.ua/index.php",
+		"/B/OpenServer/domains/hohol.ua/index.html",
+		"/B/web/billionnic/js/script.js",
+		"/B/web/billionnic/js/jquery.js",
+		"/B/prog/GameDev/game.cpp",
+		"/B/prog/vsc2.cpp",
+		"/B/prog/vsc.cpp",
+		"/B/The Witcher 3 Wild Hunt GOTY/mods/modFun/content/scripts/local/latentfunction.ws",
+		"/B/web/fara/style/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"fnormagl",
+			"texture_diffuse1",
+			"glTexImage2",
+			"STB_IMAGE_IMPLEMENTATION",
+			"0f",
+			"PRESS",
+			"stbi_load",
+			"GL_RGBA",
+			"\n\t\tglBindVertexArray(VAO);",
+			"();\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/light.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2031,
+								2031
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 408.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
